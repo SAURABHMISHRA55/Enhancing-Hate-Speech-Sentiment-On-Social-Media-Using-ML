@@ -42,7 +42,7 @@ Further updates, including additional model evaluations, improvements based on p
 
 ## Attribution
 
-If you use this code, please give credit to the author by mentioning or tagging me ([@YourGitHubUsername](https://github.com/YourGitHubUsername)) in any related work, publications, or repositories.
+If you use this code, please give credit to the author by mentioning or tagging me ([@SAURABHMISHRA55]([https://github.com/YourGitHubUsername](https://github.com/SAURABHMISHRA55))) in any related work, publications, or repositories.
 
 When the paper related to this work is published, please consider citing it as well. I will update this repository with citation details once the paper is available.
 
