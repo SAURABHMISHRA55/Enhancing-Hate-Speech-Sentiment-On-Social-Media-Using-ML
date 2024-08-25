@@ -40,4 +40,11 @@ The accompanying research paper detailing the methodologies, findings, and impli
 ## Future Updates
 Further updates, including additional model evaluations, improvements based on peer review feedback, and the final published paper, will be added to this repository.
 
+## Attribution
+
+If you use this code, please give credit to the author by mentioning or tagging me ([@YourGitHubUsername](https://github.com/YourGitHubUsername)) in any related work, publications, or repositories.
+
+When the paper related to this work is published, please consider citing it as well. I will update this repository with citation details once the paper is available.
+
+
 ---
