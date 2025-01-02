@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks and supporting documents for research
 
 ### `code/`
 Contains all Jupyter notebooks with the implementation of individual models and their integrations:
-### THere is complete description of each and every model in the respective Jupyter Notebooks. 
+### There is complete description of each and every model below in the respective Jupyter Notebooks. 
 - `BERT.ipynb`
 - `BERT + BI-LSTM.ipynb`
 - `BERT + CNN.ipynb`
